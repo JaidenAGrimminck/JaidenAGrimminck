@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Jaiden.
+
+This is just my personal GitHub account, for anything that can be traced to my personal life.
+
+Pronouns: He/Him.
+
 <!--
 **JaidenAGrimminck/JaidenAGrimminck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

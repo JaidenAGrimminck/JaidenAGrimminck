@@ -2,7 +2,12 @@
 
 I'm Jaiden.
 
-This is just my personal GitHub account, for anything that can be traced to my personal life.
+This is just my personal GitHub account!  
+Check out my programming work for our First Robotics Team (#8840) here: [https://github.com/frc8840](https://github.com/frc8840).
+
+JavaScript (NodeJS, React), HTML, CSS, Python, Java, C# (Unity), and more!
+
+[Click here to view my other GitHub account!](https://tinyurl.com/jothaccount) (Sorry if the URL doesn't work in the future)
 
 Pronouns: He/Him.
 

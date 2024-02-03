@@ -1,27 +1,18 @@
 ### Hi there 👋
 
-I'm Jaiden.
+I'm Jaiden (he/him). 
 
-This is just my personal GitHub account!  
-Check out my programming work for our First Robotics Team (#8840) here: [https://github.com/frc8840](https://github.com/frc8840).
+I'm a Dutch-Aussie-American high school student currently studying in the Netherlands.
 
-JavaScript (NodeJS, React), HTML, CSS, Python, Java, C# (Unity), and more!
+Love backpacking, reading, and coding. Have experience in JS (with web development and backend development), HTML/CSS, Python, Java, C# (w/ Unity), Arduino, GLSL, and whatever else I may need for a project.
 
-[Click here to view my other GitHub account!](https://tinyurl.com/jothaccount) (Sorry if the URL doesn't work in the future)
+Certifications:
+- IBM Z Xplore - Fundamentals and Advanced
 
-Pronouns: He/Him.
-
-<!--
-**JaidenAGrimminck/JaidenAGrimminck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me on [LinkedIn](https://www.linkedin.com/in/jaidengrimminck/).
+  
+  
+  
+Fun tidbits from my time on the internet:
+- featured on YIAY for a certain *noisy* website. maybe one day I'll link the video.
+- [*Thank you IBM Z social media manager!*](https://www.linkedin.com/feed/update/urn:li:ugcPost:7052117541913067520?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7052117541913067520%2C7052120998237650946%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287052120998237650946%2Curn%3Ali%3AugcPost%3A7052117541913067520%29)

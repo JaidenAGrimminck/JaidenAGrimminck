@@ -10,8 +10,8 @@ Certifications:
 - IBM Z Xplore All Star
 
 Teams:
-- co-founded and led coding on FIRST Robotics Team 8840, Bay Robotics @frc8840
-- led coding on FIRST Tech Challenge Team 23014, Flying Dutchman @ftc23014
+- co-founded and led coding on FIRST Robotics Team 8840, Bay Robotics [@frc8840](https://github.com/frc8840)
+- led coding on FIRST Tech Challenge Team 23014 (now working on CAD/design), Flying Dutchman [@ftc23014](https://github.com/ftc23014)
 
 Need to contact me? Find me on [LinkedIn](https://www.linkedin.com/in/jaidengrimminck/).
   

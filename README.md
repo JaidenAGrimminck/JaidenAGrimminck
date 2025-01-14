@@ -26,5 +26,5 @@ This is a bit more professional and personal account, if you want to see some of
 Social Media:
 - [My Travel Account (@jaidentravels)](https://www.instagram.com/jaidentravels/) on Instagram.
 - My [account](https://www.linkedin.com/in/jaidengrimminck/) on LinkedIn.
-- I do not have a (active) Twitter account, Reddit account, or TikTok account.
+- I do not have a Twitter account, Reddit account, TikTok account, or really any other social media, sorry.
 

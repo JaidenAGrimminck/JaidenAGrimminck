@@ -11,6 +11,7 @@ Languages:
 - C#
 - GLSL
 - C++
+- Swift
 - COBOL
 - HTML/CSS
 

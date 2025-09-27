@@ -4,6 +4,8 @@ I'm Jaiden (he/him).
 
 I'm a Dutch-Aussie-American student currently studying at Cornell University in Ithaca, New York. Love to read and to travel.
 
+View my website [here](https://jaidenagrimminck.github.io/).
+
 Languages:
 - JavaScript / TypeScript
 - Python
